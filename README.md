@@ -1,4 +1,5 @@
 # SkillCraft Technology Internship
+⭐ This repository will be updated regularly as I complete more internship tasks at SkillCraft Technology.
 
 Welcome to my SkillCraft Technology Internship repository.
 
