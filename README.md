@@ -1,58 +1,84 @@
-# SkillCraft Technology Internship
-⭐ This repository will be updated regularly as I complete more internship tasks at SkillCraft Technology.
+# 🚀 SkillCraft Technology Internship
 
-Welcome to my SkillCraft Technology Internship repository.
+Welcome to my **SkillCraft Technology Internship** repository!
 
-This repository contains all the Python projects completed during my internship at SkillCraft Technology. Each task helps strengthen my programming, logical thinking, and problem-solving skills.
+This repository contains the Python projects I completed as part of my internship at **SkillCraft Technology**. Each task focuses on strengthening programming fundamentals, problem-solving, and practical application development using Python.
 
-## 🚀 Task 1: Temperature Converter
+---
 
-### 📌 Description
+## 📌 Tasks Completed
+
+### ✅ Task 1 – Temperature Converter
 A Python program that converts temperatures between:
-- Celsius (°C)
-- Fahrenheit (°F)
-- Kelvin (K)
+- Celsius to Fahrenheit
+- Fahrenheit to Celsius
 
-### ✨ Features
-- Converts between all three temperature scales
-- Accepts user input
-- Handles invalid input
-- Displays accurate conversion results
-
-### 🛠️ Technologies Used
-- Python
-- Visual Studio Code (VS Code)
-
-### ▶️ How to Run
-1. Download or clone this repository.
-2. Open `temperature_converter.py` in VS Code.
-3. Run the program:
-   ```bash
-   python temperature_converter.py
-   ```
-4. Enter the temperature and choose the units.
-
-### 📷 Sample Output
-
-```
-Enter temperature: 100
-Current Unit: Celsius
-Convert To: Kelvin
-
-Output:
-100 Celsius = 373.15 Kelvin
-```
-
-## 📚 Skills Practiced
+**Skills Used:**
 - Variables
 - User Input
 - Conditional Statements
 - Mathematical Calculations
-- Python Programming
 
 ---
 
-### 👩‍💻 Author
+### ✅ Task 2 – Number Guessing Game
+A Python game where:
+- The computer generates a random number.
+- The user tries to guess the number.
+- The program provides hints ("Too High" or "Too Low").
+- It counts the number of attempts.
+- It handles invalid user input.
+
+**Skills Used:**
+- Random Module
+- Loops
+- Conditional Statements
+- Exception Handling
+- User Input
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+- Visual Studio Code
+- Git & GitHub
+
+---
+
+## 📂 Repository Structure
+
+```
+SkillCraft-Technology-Internship/
+│
+├── README.md
+├── temperature_converter.py
+├── number_guessing_game.py
+└── Screenshot 2026-07-03 213723.png
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+Through these projects, I improved my understanding of:
+
+- Python Programming
+- Problem Solving
+- Control Flow
+- Loops
+- Functions
+- Exception Handling
+- Git & GitHub
+
+---
+
+## 👩‍💻 Author
+
 **Jahnavi D**
 
-B.Tech Student | Aspiring Software Engineer
+GitHub: https://github.com/dumpalajahnavi4-dev
+
+---
+
+⭐ Thank you for visiting my repository!
