@@ -1,40 +1,46 @@
 # 🚀 SkillCraft Technology Internship
 
-Welcome to my **SkillCraft Technology Internship** repository!
+Welcome to my SkillCraft Technology Internship repository!
 
-This repository contains the Python projects I completed as part of my internship at **SkillCraft Technology**. Each task focuses on strengthening programming fundamentals, problem-solving, and practical application development using Python.
+This repository contains the Python projects I completed as part of my internship at SkillCraft Technology. These projects helped me improve my programming, problem-solving, and algorithmic thinking skills.
 
----
+## 📌 Completed Tasks
 
-## 📌 Tasks Completed
-
-### ✅ Task 1 – Temperature Converter
-A Python program that converts temperatures between:
-- Celsius to Fahrenheit
-- Fahrenheit to Celsius
+### ✅ Task 01 - Number Guessing Game
+**Description:**
+A Python game where the computer randomly selects a number, and the user tries to guess it with hints ("Too High" or "Too Low") until the correct number is guessed.
 
 **Skills Used:**
-- Variables
-- User Input
-- Conditional Statements
-- Mathematical Calculations
-
----
-
-### ✅ Task 2 – Number Guessing Game
-A Python game where:
-- The computer generates a random number.
-- The user tries to guess the number.
-- The program provides hints ("Too High" or "Too Low").
-- It counts the number of attempts.
-- It handles invalid user input.
-
-**Skills Used:**
+- Python
 - Random Module
 - Loops
 - Conditional Statements
-- Exception Handling
 - User Input
+
+---
+
+### ✅ Task 02 - Temperature Converter
+**Description:**
+A Python program that converts temperatures between Celsius, Fahrenheit, and Kelvin based on the user's choice.
+
+**Skills Used:**
+- Functions
+- Conditional Statements
+- Mathematical Calculations
+- User Input
+
+---
+
+### ✅ Task 03 - Sudoku Solver
+**Description:**
+A Python program that automatically solves a 9×9 Sudoku puzzle using the Backtracking Algorithm.
+
+**Skills Used:**
+- Python
+- Recursion
+- Backtracking Algorithm
+- 2D Lists
+- Problem Solving
 
 ---
 
@@ -42,34 +48,25 @@ A Python game where:
 
 - Python 3
 - Visual Studio Code
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Contents
 
 ```
-SkillCraft-Technology-Internship/
-│
-├── README.md
-├── temperature_converter.py
-├── number_guessing_game.py
-└── Screenshot 2026-07-03 213723.png
+number_guessing_game.py
+temperature_converter.py
+sudoku_solver.py
+README.md
 ```
 
 ---
 
-## 🎯 Learning Outcomes
+## 🎯 Internship
 
-Through these projects, I improved my understanding of:
-
-- Python Programming
-- Problem Solving
-- Control Flow
-- Loops
-- Functions
-- Exception Handling
-- Git & GitHub
+These projects were completed as part of the **SkillCraft Technology Python Internship** to strengthen programming fundamentals and practical development skills.
 
 ---
 
@@ -78,7 +75,3 @@ Through these projects, I improved my understanding of:
 **Jahnavi D**
 
 GitHub: https://github.com/dumpalajahnavi4-dev
-
----
-
-⭐ Thank you for visiting my repository!
