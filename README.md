@@ -6,27 +6,28 @@ This repository contains the Python projects I completed as part of my internshi
 
 ## 📌 Completed Tasks
 
-### ✅ Task 01 - Number Guessing Game
+### ✅ Task 01 - Temperature Converter
 **Description:**
-A Python game where the computer randomly selects a number, and the user tries to guess it with hints ("Too High" or "Too Low") until the correct number is guessed.
+A Python application that converts temperatures between Celsius, Fahrenheit, and Kelvin based on the user's selected conversion.
+
+**Skills Used:**
+- Python
+- Functions
+- Conditional Statements
+- User Input
+- Mathematical Calculations
+
+---
+
+### ✅ Task 02 - Number Guessing Game
+**Description:**
+A Python game where the computer randomly selects a number, and the user tries to guess it. The program provides hints ("Too High" or "Too Low") until the correct number is guessed.
 
 **Skills Used:**
 - Python
 - Random Module
 - Loops
 - Conditional Statements
-- User Input
-
----
-
-### ✅ Task 02 - Temperature Converter
-**Description:**
-A Python program that converts temperatures between Celsius, Fahrenheit, and Kelvin based on the user's choice.
-
-**Skills Used:**
-- Functions
-- Conditional Statements
-- Mathematical Calculations
 - User Input
 
 ---
@@ -53,20 +54,21 @@ A Python program that automatically solves a 9×9 Sudoku puzzle using the Backtr
 
 ---
 
-## 📂 Repository Contents
+## 📂 Repository Structure
 
 ```
-number_guessing_game.py
-temperature_converter.py
-sudoku_solver.py
-README.md
+SkillCraft-Technology-Internship/
+│── temperature_converter.py
+│── number_guessing_game.py
+│── sudoku_solver.py
+│── README.md
 ```
 
 ---
 
-## 🎯 Internship
+## 🎯 Internship Objective
 
-These projects were completed as part of the **SkillCraft Technology Python Internship** to strengthen programming fundamentals and practical development skills.
+These projects were completed as part of the **SkillCraft Technology Python Internship** to strengthen programming fundamentals, improve problem-solving skills, and gain practical experience in Python development.
 
 ---
 
